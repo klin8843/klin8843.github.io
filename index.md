@@ -3,6 +3,6 @@ title: Computing through Business Analytics
 description: My assignemnts throughout the course. 
 ---
 
-This is content I developed for my assignments:
+This is content I developed for my course assignments:
 
 - [Module 2 Assignment](/CTBA/index.md)
