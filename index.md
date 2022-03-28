@@ -2,6 +2,7 @@
 title: Computing through Business Analytics 
 description: My assignemnts throughout the course. 
 ---
+[About Me](/About Me/About Me)
 
 ![My Picture](/pics/74787218_2912889632071885_8923876902083493888_n(2).jpg)
 
